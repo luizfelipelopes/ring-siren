@@ -42,7 +42,7 @@ function App() {
   return (
     <>
       <div>
-        <a onClick={playSiren} href="#" target="_blank">
+        <a onClick={playSiren} href="#">
           {!isActive ? <div className='siren-stopped'>🚨</div> : <img src={sirenGif} className="logo react siren-playing" alt="React logo" />}
         </a>
       </div>
