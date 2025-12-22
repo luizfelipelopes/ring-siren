@@ -5,6 +5,16 @@
   text-align: center;
 }
 
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+
+  /* background-color: red; */
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
@@ -43,7 +53,7 @@
   width: 100%;
   display: flex;
   justify-content: center;
-  align-items: flex-start;
+  align-items: center;
 
 }
 

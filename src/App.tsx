@@ -40,7 +40,7 @@ function App() {
   }
 
   return (
-    <>
+    <div className='container'>
       <div className='siren-container'>
         <a onClick={playSiren} href="#">
           {!isActive
@@ -58,7 +58,7 @@ function App() {
         </div>
       }
 
-    </>
+    </div>
   )
 }
 
