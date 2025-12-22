@@ -39,9 +39,11 @@
 }
 
 .siren-stopped {
-  font-size: 5rem;
+  font-size: 15rem;
 }
 
 .siren-playing {
-  margin-left: -16px;
+  margin-left: -36px;
+  width: 50%;
+  height: 50%;
 }
