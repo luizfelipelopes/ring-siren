@@ -41,7 +41,7 @@ function App() {
 
   return (
     <>
-      <div>
+      <div className='siren-container'>
         <a onClick={playSiren} href="#">
           {!isActive
             ? <div className='siren-stopped'>🚨</div>
