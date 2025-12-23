@@ -49,3 +49,5 @@ Make sure you have Node.js and npm (or yarn) installed.
 3.  Click the siren button to play the sound.
 
 
+### Check application
+You can check the application online on: [https://ring-siren.vercel.app/](https://ring-siren.vercel.app/) 
